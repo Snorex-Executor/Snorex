@@ -23,7 +23,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -89,44 +88,21 @@ The Snorex Executor project reflects my commitment to harnessing my programming 
  
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### Install Prerequisites
+*batch
+´´´
+pip install figlet 
+´´´
 
-
-### Built With
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+
+1. Clone or download the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/Snorex-Executor/Snorex.git
    ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -135,9 +111,7 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+Execute level 7 scripts in roblox
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -146,30 +120,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+- [ ] Never be patched
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -178,8 +129,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
+Distributed under the MIT License. See `MIT-LICENSE.txt` for more information.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -187,9 +137,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Your Name - [@SnorexExecutor](https://discord.com/users/1261229364847317044) 
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: https://github.com/Snorex-Executor/Snorex
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -198,9 +148,9 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* []() Working API
+* []() Working Executor
+* []() Bypass Byfron
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -218,9 +168,6 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [issues-url]: https://github.com/Snorex-Executor/Snorex/issues
 [license-shield]: https://img.shields.io/github/license/Snorex-Executor/Snorex.svg?style=for-the-badge
 [license-url]: https://github.com/Snorex-Executor/Snorex/blob/master/MIT-LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
