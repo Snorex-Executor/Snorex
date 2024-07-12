@@ -42,7 +42,7 @@ The Snorex Executor project reflects my commitment to harnessing my programming 
     <a href="https://github.com/Snorex-Executor"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Snorex-Executor">View Demo</a>
+    <a href="https://github.com/Snorex-Executor">DevProfile</a>
     ·
     <a href="https://github.com/Snorex-Executor/Snorex/issues/new">Report Bug</a>
     ·
@@ -89,10 +89,11 @@ The Snorex Executor project reflects my commitment to harnessing my programming 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Install Prerequisites
-*batch
-´´´
-pip install figlet 
-´´´
+
+* batch
+  ```sh
+  pip install figlet
+  ```
 
 
 ### Installation
